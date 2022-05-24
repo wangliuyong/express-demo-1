@@ -24,5 +24,5 @@ npm  run  dev
 ## 使用本项目
 
 ```
-git@github.com:wangliuyong/express-demo-1.git ./express-demo
+git clone @github.com:wangliuyong/express-demo-1.git ./express-demo
 ```
